@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using FluentAssertions;
+using OopCatExercise.Models;
 
 namespace OopCatExercise.Tests;
 
